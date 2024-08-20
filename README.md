@@ -6,7 +6,7 @@ I am an experienced web developer specializing in creating dynamic and responsiv
 
 ## 🚀 About Me
 
-- 🌐 Experienced web developer with expertise in **PHP Laravel, Node.js, Vanilla JavaScript, Tailwind CSS, HTML, MongoDB, and MySQL DB**.
+- 🌐 Experienced web developer with expertise in **PHP Laravel, Node.js, Express.js, Vanilla JavaScript, Tailwind CSS, HTML, MongoDB, and MySQL DB**.
 - 💻 Worked on diverse projects including:
   - [Souk Dropship](https://soukdropshiplink) - A dropshipping company in UAE.
   - [Yarn Guru](https://yarnguruapp) - A textile marketplace for Texpreneurs.
@@ -17,7 +17,7 @@ I am an experienced web developer specializing in creating dynamic and responsiv
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,mongodb,mysql,laravel,nodejs,express)](https://skillicons.dev)
 
 ## 💼 Experience
 
