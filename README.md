@@ -16,7 +16,7 @@
 <!-- About Me Section -->
 ## About Me
 
-I'm a passionate web developer with a focus on creating dynamic and responsive websites. I specialize in delivering high-quality user experiences through my expertise in various technologies.
+I'm a passionate web developer specializing in creating dynamic and responsive websites. I focus on delivering high-quality user experiences through my expertise in various technologies.
 
 - 🌍 Based in Lahore, Pakistan
 - 🎓 Bachelor’s in Computer Science from Lahore Garrison University (2021–2024)
@@ -25,13 +25,27 @@ I'm a passionate web developer with a focus on creating dynamic and responsive w
 ## Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-Laravel-F7DF1C?logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Vanilla%20JavaScript-F7DF1C?logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://img.icons8.com/ios/50/ffffff/laravel.png" alt="Laravel" title="Laravel" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.icons8.com/ios/50/ffffff/nodejs.png" alt="Node.js" title="Node.js" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.icons8.com/ios/50/ffffff/javascript.png" alt="JavaScript" title="JavaScript" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.icons8.com/ios/50/ffffff/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.icons8.com/ios/50/ffffff/html-5.png" alt="HTML" title="HTML" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.icons8.com/ios/50/ffffff/mongodb.png" alt="MongoDB" title="MongoDB" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/ios/50/ffffff/mysql.png" alt="MySQL" title="MySQL" />
+  </a>
 </p>
 
 ## Experience
