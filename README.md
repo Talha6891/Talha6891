@@ -1,32 +1,35 @@
-# Hi, I'm Talha! 👋
+# Hi there, I'm Talha 👋
 
-I am an experienced web developer passionate about crafting dynamic and responsive websites. With a strong background in PHP Laravel, Node.js, and a variety of web technologies, I thrive on delivering high-quality user experiences and innovative solutions.
+## 🌟 About Me
+I'm a passionate web developer specializing in creating dynamic and responsive websites. I strive to deliver high-quality user experiences and am experienced in various modern technologies.
 
-![Talha's Stats](https://github-readme-stats.vercel.app/api?username=Talha6891&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+📧 Email: [talhamanzoor68911@gmail.com](mailto:talhamanzoor68911@gmail.com)  
+📞 Phone: +92 309-9252-658  
+🌍 Location: Lahore Cantt, Pakistan  
 
-## 🚀 About Me
+## 💼 Experience
+- **Web Developer** (Remote Job): June 2022 - March 2023
+- **Techsops Private Limited**: March 2023 - February 2024
+- **Internship**: Punjab Information Technology Board (PITB)
 
-- 🔭 I’m currently working as a Web Developer at Techsops Private Limited.
-- 🎓 I hold a Bachelor's in Computer Science from Lahore Garrison University (2021–2024).
-- 🌍 Based in Lahore, Pakistan.
+## 🧑‍🎓 Education
+**Lahore Garrison University**  
+Bachelor’s in Computer Science (BSCS)  
+2021–2024
 
-## 🌱 Currently Exploring
+## 🛠️ Technologies & Tools
 
-- 🚀 Building full-stack applications with Laravel and Node.js.
-- 🎨 Enhancing user interfaces with Tailwind CSS and modern front-end frameworks.
-- 💻 Diving into new technologies and improving my skill set in web development.
+![PHP](https://img.shields.io/badge/-PHP-7A7A7A?style=flat-square&logo=php&logoColor=white)  
+![Laravel](https://img.shields.io/badge/-Laravel-EF7A8C?style=flat-square&logo=laravel&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 
-## 🏆 Experience
+## 🌍 Find Me
+- [GitHub](https://github.com/Talha6891)
+- [LinkedIn](https://www.linkedin.com/in/talha-manzoor-112a57269)
 
-- 🏢 **Remote Job as Web Developer** (June 2022 - March 2023)
-- 🏢 **Techsops Private Limited** (March 2023 - February 2024)
-- 🏢 **Internship at Punjab Information Technology Board (PITB)**
-
-## 📬 Get in Touch
-
-- 💬 Email: [talhamanzoor68911@gmail.com](mailto:talhamanzoor68911@gmail.com)
-- 📞 Phone: +92 309-9252-658
-- 🌐 LinkedIn: [Talha Manzoor](https://www.linkedin.com/in/talha-manozor-112a57269)
-- 🌐 GitHub: [Talha6891](https://github.com/Talha6891)
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+Feel free to reach out if you'd like to collaborate or just connect!
