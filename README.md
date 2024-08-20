@@ -17,7 +17,7 @@ I am an experienced web developer specializing in creating dynamic and responsiv
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,laravel,nodejs,express,mongodb,mysql)]
+![My Skills](https://skillicons.dev/icons?i=html,css,js,laravel,nodejs,express,mongodb,mysql)
 
 ## 💼 Experience
 
