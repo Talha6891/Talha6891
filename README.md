@@ -1,70 +1,36 @@
-<!-- Markdown Header -->
-<h1 align="center">Hi 👋, I'm Talha!</h1>
+# Hi, I'm Talha! 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/talha-manzoor-112a57269" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Talha%20Manzoor-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:talhamanzoor68911@gmail.com">
-    <img src="https://img.shields.io/badge/Email-talhamanzoor68911@gmail.com-red?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Talha6891" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Talha6891-black?logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+I am an experienced web developer specializing in creating dynamic and responsive websites. I’m passionate about delivering high-quality user experiences and exploring new technologies to build innovative solutions.
 
-<!-- About Me Section -->
-## About Me
+![Talha's Stats](https://github-readme-stats.vercel.app/api?username=Talha6891&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-I'm a passionate web developer specializing in creating dynamic and responsive websites. I focus on delivering high-quality user experiences through my expertise in various technologies.
+## 🚀 About Me
 
-- 🌍 Based in Lahore, Pakistan
-- 🎓 Bachelor’s in Computer Science from Lahore Garrison University (2021–2024)
-- 🗣️ Fluent in English and Urdu
+- 🌐 Experienced web developer with expertise in **PHP Laravel, Node.js, Vanilla JavaScript, Tailwind CSS, HTML, MongoDB, and MySQL DB**.
+- 💻 Worked on diverse projects including:
+  - [Souk Dropship](https://soukdropshiplink) - A dropshipping company in UAE.
+  - [Yarn Guru](https://yarnguruapp) - A textile marketplace for Texpreneurs.
+  - [Funvilla](https://funvillalink) - An indoor playland for children based in the UK and Canada.
+  - [EmergencyTime](https://emergencytimelink) - An AI-based Flutter app designed to efficiently navigate medical emergencies.
+  - [Azaz Services](https://azazserviceslink) - A service directory website connecting users with professionals in fields such as electrical work, plumbing, and architecture.
+- 🎓 Bachelor’s in Computer Science from Lahore Garrison University (2021–2024).
 
-## Technologies & Tools
+## 🛠 Tech Stack
 
-<p align="center">
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://img.icons8.com/ios/50/ffffff/laravel.png" alt="Laravel" title="Laravel" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.icons8.com/ios/50/ffffff/nodejs.png" alt="Node.js" title="Node.js" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.icons8.com/ios/50/ffffff/javascript.png" alt="JavaScript" title="JavaScript" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.icons8.com/ios/50/ffffff/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.icons8.com/ios/50/ffffff/html-5.png" alt="HTML" title="HTML" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.icons8.com/ios/50/ffffff/mongodb.png" alt="MongoDB" title="MongoDB" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.icons8.com/ios/50/ffffff/mysql.png" alt="MySQL" title="MySQL" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,mongodb,mysql)](https://skillicons.dev)
 
-## Experience
+## 💼 Experience
 
-- 💼 Remote Web Developer (June 2022 - March 2023)
-- 💼 Techsops Private Limited (March 2023 - February 2024)
-- 🏢 Internship from Punjab Information Technology Board (PITB)
+- Remote Web Developer (June 2022 - March 2023)
+- Techsops Private Limited (March 2023 - February 2024)
+- Internship at Punjab Information Technology Board (PITB)
 
-## Portfolio
+## 📬 Get in Touch
 
-Check out my portfolio website to see my work and learn more about me:
+- 📧 Email: [talhamanzoor68911@gmail.com](mailto:talhamanzoor68911@gmail.com)
+- 📞 Phone: +92 309-9252-658
+- 🌐 Portfolio: [talha-portfolio-1.vercel.app](https://talha-portfolio-1.vercel.app)
+- 🖇 LinkedIn: [Talha Manzoor](https://www.linkedin.com/in/talha-manzoor-112a57269)
+- 🔗 GitHub: [Talha6891](https://github.com/Talha6891)
 
-[🌐 Talha's Portfolio](https://talha-portfolio-1.vercel.app)
-
-## Let's Connect
-
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/talha-manzoor-112a57269) or email me at [talhamanzoor68911@gmail.com](mailto:talhamanzoor68911@gmail.com).
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Talha6891&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&theme=radical" />
-</p>
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
